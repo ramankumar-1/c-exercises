@@ -1,0 +1,2 @@
+Print all integers between 1 to 1000 (inclusive) that are multiples of 4 and 6 but NOT BOTH. 
+For eg. 12 should Not be printed. Print them separated by single space. 

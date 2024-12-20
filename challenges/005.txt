@@ -1,0 +1,1 @@
+Take a single character as input & print its ASCII value
