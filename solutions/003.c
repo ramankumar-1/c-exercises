@@ -1,4 +1,4 @@
-// Print all multiples of 17 that are less than 1000 separated by single space.
+// Print all positive multiples of 17 that are less than 1000 separated by single space.
 
 #include<stdio.h>
 
