@@ -1,1 +1,1 @@
-Print all multiples of 17 that are less than 1000. 
+Print all positive multiples of 17 that are less than 1000. 
