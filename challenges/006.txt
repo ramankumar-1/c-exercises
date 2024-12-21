@@ -1,0 +1,1 @@
+Take your first name as input (single word) and Print it with all alphabets in UPPERCASE
